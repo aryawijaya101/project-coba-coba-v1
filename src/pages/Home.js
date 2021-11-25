@@ -8,7 +8,7 @@ function Home() {
     <div className="home" style={{ backgroundImage: `url(${Pizza})` }}>
       <div className="headerContainer">
         <h1> PIZZA OF THE YEAR</h1>
-        <p>PIZZA Arya Wijaya</p>
+        <p>PIZZA ARYA WIJYA</p>
         <Link to="/menu">
           <button>ORDER</button>
         </Link>

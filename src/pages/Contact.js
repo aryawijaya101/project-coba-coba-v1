@@ -11,10 +11,10 @@ function Contact() {
 
         <form id="contact-form">
           <label htmlFor="name"> Full Name</label>
-          <input name="name" placeholder="Enter Full Name..." type="text" />
+          <input name="name" placeholder="Enter Full Name..." type="text" required />
 
           <label htmlFor="email"> Email</label>
-          <input name="email" placeholder="Enter Email..." type="email" />
+          <input name="email" placeholder="Enter Email..." type="email" required />
 
           <label htmlFor="message"> Message</label>
           <textarea rows="6" placeholder="Enter Message .." name="message" required></textarea>

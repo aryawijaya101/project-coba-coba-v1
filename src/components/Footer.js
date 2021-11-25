@@ -12,7 +12,7 @@ function Footer() {
         <TwitterIcon />
         <FacebookIcon />
       </div>
-      <p> &copy; 2021 pizzaoftheyear.com</p>
+      <p> &copy; 2021 Design BY Arya Wijaya</p>
     </div>
   );
 }
